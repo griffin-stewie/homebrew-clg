@@ -9,7 +9,7 @@ This is a Homebrew tap repository that provides the `clg` formula.
 To install:
 
 ```sh
-brew install griffin-stewie/clg
+brew install griffin-stewie/clg/clg
 ```
 To upgrade:
 
