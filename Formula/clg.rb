@@ -4,9 +4,9 @@
 class Clg < Formula
   desc "Supports generate clr file or code from ASE file a.k.a. 'Adobe Swatch Exchange' etc."
   homepage "https://github.com/griffin-stewie/clg"
-  version "2.0.0"
-  url "https://github.com/griffin-stewie/clg/releases/download/v2.0.0/clg_v2.0.0.zip"
-  sha256 "f38bc87e809637f7aadbb5c62f2830b13499117f9d3f8e7ad8a59b1829e39c86"
+  version "2.1.0"
+  url "https://github.com/griffin-stewie/clg/releases/download/v2.1.0/clg_v2.1.0.zip"
+  sha256 "561041c514d089a16c16640625f82f4d563e7f3133f4f5ccf33b656b6b6e9418"
   depends_on :macos => :catalina
   # depends_on "cmake" => :build
 
